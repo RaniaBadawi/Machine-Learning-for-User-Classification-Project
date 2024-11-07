@@ -1,5 +1,5 @@
 # Machine-Learning-for-User-Classification-Project
-This project aims to predict whether students on an online education platform will upgrade from a free plan to a paid plan based on their engagement metrics. By utilizing data such as days on platform, content-watched minutes, and courses started, we trained and evaluated several machine learning models to identify the most effective one for this classification task.
+This project aims to predict whether students on an online education platform will upgrade from a free plan to a paid plan based on their engagement metrics. By utilizing data such as days on platform, content-watched minutes, and courses started, I trained and evaluated several machine learning models to identify the most effective one for this classification task.
 # Business Objective
 For online companies , predicting potential customers is valuable for targeted marketing and personalized offers. Knowing which users are more likely to upgrade can help allocate marketing resources more effectively and increase revenue. This project can serve as a template for similar business applications across various industries.
 # Project Overview
